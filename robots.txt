@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /footer.php
+Disallow: /header.php
+Disallow: /basket.php
+Disallow: /orders.php
+Disallow: /profile.php
+Disallow: /tovar.php
+Disallow: /update.php
